@@ -19,6 +19,9 @@
 # Fortran module files
 *.mod
 
+# Backup files
+*.zip
+
 # Compiled Static libraries
 *.lai
 *.la
