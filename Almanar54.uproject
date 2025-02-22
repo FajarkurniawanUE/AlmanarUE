@@ -80,6 +80,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
